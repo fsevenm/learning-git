@@ -13,7 +13,8 @@
 </head>
 <body>
     <a href="" class="link"></a>
+    
     <a href="" class="link"></a>
-    <a href="" class="link"></a>
+    <div class="footer"></div>
 </body>
 </html>
